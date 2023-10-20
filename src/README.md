@@ -3,3 +3,5 @@
 ## I'm using what i learned to make the font bigger
 
 - following along in class
+
+![Run Code](images/ss1.jpg)
